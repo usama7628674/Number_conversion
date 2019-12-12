@@ -5,3 +5,6 @@ Convert decimal,octal,binary and hex with ease.
 
 # Usage 
 ``` python number_conversion.py```
+
+### Standalone binary is available is available now
+https://github.com/usama7628674/Number_conversion/releases/download/1.0/number_conversion.exe
