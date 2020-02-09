@@ -1,6 +1,8 @@
 # Number_conversion
 Convert decimal,octal,binary and hex with ease.
 
+<img src="https://github.com/usama7628674/Number_conversion/blob/master/Capture.PNG">
+
 # You must have python 3 installed to use it
 
 # Usage 
